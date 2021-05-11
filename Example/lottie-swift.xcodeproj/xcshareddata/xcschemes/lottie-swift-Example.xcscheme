@@ -61,6 +61,16 @@
                ReferencedContainer = "container:lottie-swift.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F90B321A264A2E610023E541"
+               BuildableName = "lottie-swift_UITests.xctest"
+               BlueprintName = "lottie-swift_UITests"
+               ReferencedContainer = "container:lottie-swift.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
